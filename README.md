@@ -1,4 +1,4 @@
-# Vercel Kids - Self-Hosted HTML Deployer
+# DepBaby - Deployment Tool for 5yo
 
 Upload HTML → Get URL. No vendor lock-in.
 
